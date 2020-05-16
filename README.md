@@ -1,5 +1,7 @@
 # Duplicate Repository for Python 4 Data Analytics
 
+![funny_picture](https://www.thecoderpedia.com/wp-content/uploads/2020/03/99994.jpg)
+
 This course covers the essential of programming with Python in the domain of Data Analytics.
 
 ## Overview
